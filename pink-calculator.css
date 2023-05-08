@@ -1,0 +1,51 @@
+body {
+  background-color: black;
+  padding: 10px;
+}
+
+.title {
+  color: rgb(179, 8, 102);
+  font-family: sigmar; 
+  font-size: 38px;
+  margin: 0;
+}
+
+.result {
+  color: white;
+  font-size: 50px;
+  margin-top: 0;
+  margin-bottom: 0;
+  text-align: center;
+
+}
+
+fieldset {
+  width: 238px;
+  min-height: 60px;
+  border-radius: 10px;
+  border: 2px solid rgb(253, 251, 251); 
+}
+
+button {
+  background-color: rgb(51, 51, 51);
+  border: none; 
+  border-radius: 60px;
+  
+  margin-right: 5px;
+  color: white;
+  height: 60px; 
+  width: 60px; 
+  margin-bottom: 5px; 
+  color: white; 
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px; 
+}
+
+.yellow-button {
+  background-color: rgb(179, 8, 102);
+}
+
+.clear-button {
+  font-size: 15px;
+}
+
